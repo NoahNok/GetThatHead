@@ -1,0 +1,9 @@
+messages:
+  NO_ARGS: "&cPlease provide search criteria for the head(s) you want to find!"
+  WAITING_ONHEADS: "&cHead textures are currently being loaded! Please wait! "
+  NO_HEADS: "&cNo heads were found with your search criteria/query!"
+  MULTIHEAD_INCORRECT_FORMAT: "&cPlease provide player names in this format: player1,player2,player3,etc"
+  NO_PERM: "&cSorry, you aren't allowed to do that!"
+  PLUGIN_RELOAD: "&6The plugins config.yml has successfully been reloaded!"
+
+inventoryname: "&6Heads:"

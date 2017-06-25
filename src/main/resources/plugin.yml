@@ -1,0 +1,15 @@
+name: GetThatHead
+main: noahnok.gth.file.GetThatHead
+version: 1.0
+author: NoahNok
+commands:
+   gethead:
+     usage: /heads <searchfilter>
+   getthathead:
+     usage: /getthathead <searchfilter>
+   getheads:
+     usage: /getheads <player,player,player,etc>
+   getthoseheads:
+     usage: /getthoseheads <player,player,player,etc>
+   gthreload:
+     usage: /gthreload
